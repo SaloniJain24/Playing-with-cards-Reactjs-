@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Resources Used in this project
+
+Used [https://semantic-ui.com] and [https://github.com/marak/Faker.js] in this project.
+
 ## Available Scripts
 
 In the project directory, you can run:
